@@ -179,8 +179,7 @@ tourism-happiness_analysis/
 ├── data/
 └── README.md
 
----
-
+```
 ## Limites de l'analyse
 
 Ce projet a été réalisé dans un objectif **d'apprentissage** et de mise en pratique de Power BI**, notamment à travers Power Query, DAX, la modélisation des données et la création d'un dashboard interactif.
